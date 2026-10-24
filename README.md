@@ -1,0 +1,1 @@
+# loriq-wordpress
